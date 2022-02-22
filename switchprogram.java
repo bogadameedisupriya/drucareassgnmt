@@ -19,7 +19,7 @@ public class switchprogram {
 			System.out.println("dont bring");
 			break;
 		default:
-			System.out.println("no need to bring");
+			System.out.println("not necessary");
 
 
 			
