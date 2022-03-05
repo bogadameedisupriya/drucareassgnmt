@@ -6,7 +6,6 @@ import java.util.List;
 public class streamprogram1 {
 
 	public static void main(String[] args) {
-	//	Arrays.stream(new int[] {1,44,2,45,7});
 		List<Integer> mylist=Arrays.asList(2,34,23,55,67);
 		mylist.stream()
 	//	.average()
